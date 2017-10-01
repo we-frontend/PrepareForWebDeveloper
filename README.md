@@ -4,6 +4,20 @@
 - [Lutece](https://github.com/Lutece)
 - [Eclatant](https://github.com/Eclatant)
 
+
+## Change-log
+- 한 주제를 Deep dive하는 방향으로 진행 [ 17.09.30 ]
+
+## Plan
+- September ~ October
+    - 코드 스피치 72 강의 정리 [ HTML / CSS ]
+    - 코드 스피치 68 강의 정리 [ CSS Rendering ]
+    - BEM 정리
+    - CSS Quesions for Front-end
+    - Complete to write a presentation for GDG Korea
+    - CSS in depth
+    - Practice to make various UI Components
+
 ## List - Lutece
 - HTML5
     - Semantic Web
