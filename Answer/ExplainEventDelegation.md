@@ -82,6 +82,11 @@ true일 경우 `Window`부터 이벤트가 발생한 `node`까지 `Event`가 전
 
 
 
+[Codepen 예제](https://codepen.io/jeewhan/pen/XeaXGJ)
+
+---
+
+
 그렇다면 왜 이벤트 위임을 해야 하는가?
 
 
